@@ -58,3 +58,8 @@ h2{
     padding: 3px;
     font-size: small;
 }
+
+.name:hover {
+  background-color: wheat;
+  cursor: pointer;
+}
