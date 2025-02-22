@@ -57,6 +57,7 @@ h2{
     text-align: center;
     padding: 3px;
     font-size: small;
+    text-decoration: none;
 }
 
 .name:hover {
